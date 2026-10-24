@@ -1,0 +1,56 @@
+{
+  "shelf": "G-code Shelf",
+  "version": 1,
+  "updated": "2026-10-24",
+  "articles": [
+    {
+      "title": "G2 and G3 Arcs",
+      "date": "2026-10-22",
+      "file": "articles/g2-g3-arcs.html",
+      "bytes": 743360,
+      "sha256": "a83400415bd4ea925071ebb0ac6e0fce7a97a850cbb50676ac14ca476ba89790"
+    },
+    {
+      "title": "The G-Code of Waiting",
+      "date": "2026-10-21",
+      "file": "articles/gcode-of-waiting.html",
+      "bytes": 1062010,
+      "sha256": "c31cfc74e8ee7ac02341ab4fea6599bff1b5a79115ec4ae791683f0b4f80f492"
+    },
+    {
+      "title": "M83 on Your A1 Mini",
+      "date": "2026-10-20",
+      "file": "articles/m83-a1-mini.html",
+      "bytes": 600923,
+      "sha256": "d457457f5985fb38b3a0417645ab11e171c88a41e87e295850b8fa98c39cffa9"
+    },
+    {
+      "title": "The Pre-Flight Check",
+      "date": "2026-10-19",
+      "file": "articles/pre-flight-check.html",
+      "bytes": 877822,
+      "sha256": "cc242600098753d6af61491076ad9fd44e9785f48ed6180863bf017043763520"
+    },
+    {
+      "title": "PinLoK and Multi-Nozzle G-code",
+      "date": "2026-10-16",
+      "file": "articles/pinlok-multi-nozzle.html",
+      "bytes": 719616,
+      "sha256": "10c1b801c8cd5d61cfa630e0febdd96ba692e8b9725f32be7a934b084bef2d0d"
+    },
+    {
+      "title": "Bambu G-code This Week",
+      "date": "2026-10-15",
+      "file": "articles/bambu-gcode-this-week.html",
+      "bytes": 1893653,
+      "sha256": "d105d1c08ace361588e6f88259f778d3a21935c477637db63c534f39b766964d"
+    },
+    {
+      "title": "Bambu G-code This Week \u2014 Beginner Edition",
+      "date": "2026-10-15",
+      "file": "articles/bambu-gcode-this-week-beginner.html",
+      "bytes": 1898706,
+      "sha256": "f804dd45d7689850c590b85a8805095d959398888d35504a4348e41a8d50bd9a"
+    }
+  ]
+}
