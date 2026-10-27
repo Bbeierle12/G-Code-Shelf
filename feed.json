@@ -1,8 +1,15 @@
 {
   "shelf": "G-code Shelf",
   "version": 1,
-  "updated": "2026-10-24",
+  "updated": "2026-10-25",
   "articles": [
+    {
+      "title": "Feedrate and the Speed Stack",
+      "date": "2026-10-25",
+      "file": "articles/feedrate-speed-stack.html",
+      "bytes": 751966,
+      "sha256": "91804c5befd489862eed2be9432f33db85e432bf6f2620bd1663d856554bc6fa"
+    },
     {
       "title": "G2 and G3 Arcs",
       "date": "2026-10-22",
@@ -46,7 +53,7 @@
       "sha256": "d105d1c08ace361588e6f88259f778d3a21935c477637db63c534f39b766964d"
     },
     {
-      "title": "Bambu G-code This Week \u2014 Beginner Edition",
+      "title": "Bambu G-code This Week — Beginner Edition",
       "date": "2026-10-15",
       "file": "articles/bambu-gcode-this-week-beginner.html",
       "bytes": 1898706,
